@@ -1,4 +1,6 @@
+# import včetně alias
 import pandas as pd
+
 # Načítání a ukládání dat
 df = pd.read_csv("sales.csv")  # načte data ze souboru CSV
 df = pd.read_excel("data.xlsx")  # načte data z Excel souboru

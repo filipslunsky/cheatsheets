@@ -1,5 +1,7 @@
+# import včetně alias
 import matplotlib.pyplot as plt
 
+# tohle ignorujte, doplněné proměnné kvůli chybovým varováním
 x = []
 y = []
 x1 = []
