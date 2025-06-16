@@ -17,5 +17,3 @@ print("Zamíchaný list:", cisla)
 # Náhodné desetinné číslo mezi 0 a 1
 desetinne = random.random()
 print("Desetinné číslo:", desetinne)
-
-
